@@ -283,6 +283,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e7e8bb9a7c132a84686866deb62db035, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  runBegun: 0
   moveSpeed: 1
   jumpForce: 8
   rb: {fileID: 499650113}
